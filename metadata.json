@@ -1,0 +1,6 @@
+{
+  "name": "MBE File Editor",
+  "description": "A tool to edit MBE (EXPA/CHNK) binary game files with a graphical user interface. Allows modifying sheet data and saving changes back to the MBE format.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

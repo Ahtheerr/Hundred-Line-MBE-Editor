@@ -1,6 +1,14 @@
-# Hundred-Line-MBE-Editor
-Program made to edit and edit/add texts in message MBE files.
+# Run and deploy your AI Studio app
 
-The program should work on MBE files inside of "message" folder.
+This contains everything you need to run your app locally.
 
-Not tested/should not work on files from "text" folder.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
